@@ -62,3 +62,6 @@ The File Manager System is a web application that allows users to organize and m
    ```bash
    npm start
    ```
+   Test the APIs
+   -Import the fileManager.postman_collection.json in postman 
+   
