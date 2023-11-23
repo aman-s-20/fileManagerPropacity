@@ -66,9 +66,11 @@ The File Manager System is a web application that allows users to organize and m
    -Import the fileManager.postman_collection.json in postman 
 
 ## Database schema
-![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/b62f810a-73a9-4f8d-b154-7b5137eaf0dc)
-![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/08a7548e-6967-4fc5-9f81-f064a2ac8f47)
-![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/c0f3af88-bcad-426c-81ff-0a9b16912482)
+![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/f49136eb-dd55-4a96-9bc9-f66a4e074b71)
+![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/1df14bc3-62d6-4134-919c-ad738897d8cf)
+![image](https://github.com/aman-s-20/fileManagerPropacity/assets/88033748/6d3e15cc-0ecf-4a7e-ba7b-d39350d1cf9a)
+
+
 
 
 
